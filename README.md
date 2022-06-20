@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [TutorMe](https://github.com/COS301-SE-2022/Tutor-ME)
 
-- 🌱 I’m currently learning **Flutter, Dark, APIs**
+- 🌱 I’m currently learning **Flutter, Dark, ASP.NET APIs, Angular-Ionic, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MadunaThabo](https://github.com/MadunaThabo)
 
 - 📫 How to reach me **madunathabo2@gmail.com**
 
-- ⚡ Fun fact **I think I am a hard worker and I never give up which is what is important in coding**
+- ⚡ Fun fact **I think I am a hard worker and I never give up which is what is important in coding, oh also gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
