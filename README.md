@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madunathabo" alt="madunathabo" /></a> </p>
 
-- 🔭 I’m currently working on [TutorMe](https://github.com/COS301-SE-2022/Tutor-ME)
+- 🔭 I’m currently working on [Foodea](https://github.com/MadunaThabo/Foodea)
 
 - 🌱 I’m currently learning **Flutter, Dark, ASP.NET APIs, Angular-Ionic, TypeScript**
 
